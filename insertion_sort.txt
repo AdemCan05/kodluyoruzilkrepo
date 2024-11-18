@@ -1,0 +1,14 @@
+[22,27,16,2,18,6] -> Insertion Sort
+
+Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
+1.Adım: 22'nin sağındaki 27 ondan büyük olduğundan herhangi bir değişime ihtiyaç yok.
+    [22,27,16,2,18,6]
+2.Adım: 27'nin sağındaki 16 ondan küçük olduğundan ilk dizeye yerleşir.
+    [16,22,27,2,18,6]
+3.Adım: 27'nin sağındaki 2 ondan küçük olduğundan ilk dizeye yerleşir.
+    [2,16,22,27,18,6]
+4.Adım: 27'nin sağındaki 18 ondan küçük olduğundan üçüncü dizeye yerleşir.
+    [2,16,18,22,27,6]
+5.Adım(Son Adım): 27'nin sağındaki 6 ondan küçük olduğundan ikinci dizeye yerleşir.
+    [2,6,16,18,22,27]
