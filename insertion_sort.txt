@@ -12,3 +12,13 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
     [2,16,18,22,27,6]
 5.Adım(Son Adım): 27'nin sağındaki 6 ondan küçük olduğundan ikinci dizeye yerleşir.
     [2,6,16,18,22,27]
+
+Big-O gösterimini yazınız. O(n)'dir
+
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
+
+Average case: Aradığımız sayının ortada olması
+Worst case: Aradığımız sayının sonda olması
+Best case: Aradığımız sayının dizinin en başında olması.
+
+Bu seçenekler arasından 18 sayısının case sonucumuz Average case olur.
